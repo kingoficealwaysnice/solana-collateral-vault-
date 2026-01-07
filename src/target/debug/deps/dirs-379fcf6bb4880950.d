@@ -1,0 +1,8 @@
+/Users/abc/Downloads/M k Pandey _ OLX_files/collateral-vault-system/src/target/debug/deps/libdirs-379fcf6bb4880950.rmeta: /Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/lib.rs /Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/mac.rs
+
+/Users/abc/Downloads/M k Pandey _ OLX_files/collateral-vault-system/src/target/debug/deps/libdirs-379fcf6bb4880950.rlib: /Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/lib.rs /Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/mac.rs
+
+/Users/abc/Downloads/M k Pandey _ OLX_files/collateral-vault-system/src/target/debug/deps/dirs-379fcf6bb4880950.d: /Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/lib.rs /Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/mac.rs
+
+/Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/lib.rs:
+/Users/abc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-4.0.0/src/mac.rs:
