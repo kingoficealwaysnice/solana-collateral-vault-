@@ -1,0 +1,33 @@
+# Build artifacts
+programs/collateral-vault/target/
+programs/collateral-vault/dist/
+programs/collateral-vault/build/
+
+# Rust build cache
+**/target/
+**/*.rlib
+**/*.rmeta
+
+# Node modules (if any)
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
